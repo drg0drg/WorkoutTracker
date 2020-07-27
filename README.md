@@ -46,7 +46,9 @@ https://workout-tracker-drg.herokuapp.com/
 
 The app can be run locally. For this, one has to fork && clone the repo, and after following the steps in _Installation_ section, one has to start the server by the command `node server.js`. This will provide the port to which the user should navigate.
 
+Demo:
 
+![WorkoutTracker](https://user-images.githubusercontent.com/60710786/88559787-32a0fc80-d025-11ea-9df6-cdf058cd86bc.JPG)
 
     
 
